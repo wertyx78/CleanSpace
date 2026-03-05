@@ -1,0 +1,14 @@
+{
+    "cs": {
+        "app_name": "Moje Aplikace",
+        "welcome": "Vítejte v hlavním menu",
+        "btn_start": "Spustit funkci",
+        "btn_exit": "Ukončit"
+    },
+    "en": {
+        "app_name": "My Application",
+        "welcome": "Welcome to main menu",
+        "btn_start": "Start function",
+        "btn_exit": "Exit"
+    }
+}
